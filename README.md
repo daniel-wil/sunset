@@ -1,2 +1,2 @@
-# sunset
-Sunset Rust server dump
+# Sunset Rust
+
